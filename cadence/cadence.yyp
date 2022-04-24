@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {"id":{"name":"spr_bg_hills","path":"sprites/spr_bg_hills/spr_bg_hills.yy",},"order":2,},
+    {"id":{"name":"spr_bg_sky","path":"sprites/spr_bg_sky/spr_bg_sky.yy",},"order":1,},
+    {"id":{"name":"obj_demo","path":"objects/obj_demo/obj_demo.yy",},"order":1,},
+    {"id":{"name":"scr_cadence","path":"scripts/scr_cadence/scr_cadence.yy",},"order":0,},
+    {"id":{"name":"spr_arrow_left","path":"sprites/spr_arrow_left/spr_arrow_left.yy",},"order":4,},
+    {"id":{"name":"spr_kai_jump","path":"sprites/spr_kai_jump/spr_kai_jump.yy",},"order":0,},
+    {"id":{"name":"obj_animation","path":"objects/obj_animation/obj_animation.yy",},"order":2,},
+    {"id":{"name":"font_demo","path":"fonts/font_demo/font_demo.yy",},"order":0,},
+    {"id":{"name":"obj_cadence_runner","path":"objects/obj_cadence_runner/obj_cadence_runner.yy",},"order":0,},
+    {"id":{"name":"spr_9_btn","path":"sprites/spr_9_btn/spr_9_btn.yy",},"order":3,},
+    {"id":{"name":"spr_arrow_right","path":"sprites/spr_arrow_right/spr_arrow_right.yy",},"order":5,},
+    {"id":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},"order":0,},
+  ],
+  "Options": [
+    {"name":"Linux","path":"options/linux/options_linux.yy",},
+    {"name":"macOS","path":"options/mac/options_mac.yy",},
+    {"name":"Main","path":"options/main/options_main.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
+    {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+  ],
+  "defaultScriptType": 1,
+  "isEcma": false,
+  "configs": {
+    "name": "Default",
+    "children": [],
+  },
+  "RoomOrderNodes": [
+    {"roomId":{"name":"rm_test","path":"rooms/rm_test/rm_test.yy",},},
+  ],
+  "Folders": [
+    {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Scripts.yy","order":5,"resourceVersion":"1.0","name":"Scripts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Fonts.yy","order":7,"resourceVersion":"1.0","name":"Fonts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects.yy","order":9,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Rooms.yy","order":10,"resourceVersion":"1.0","name":"Rooms","tags":[],"resourceType":"GMFolder",},
+  ],
+  "AudioGroups": [
+    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  ],
+  "TextureGroups": [
+    {"isScaled":true,"compressFormat":"bz2","autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
+  ],
+  "IncludedFiles": [],
+  "MetaData": {
+    "IDEVersion": "2022.3.0.625",
+  },
+  "resourceVersion": "1.5",
+  "name": "cadence",
+  "tags": [],
+  "resourceType": "GMProject",
+}
