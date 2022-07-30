@@ -13,7 +13,7 @@ Cadence is a library for modern GameMaker projects for scheduling execution of c
 
 Integrating Cadence into your project is simple: just [download the latest release](https://github.com/daikon-games/cadence/releases), and then in GameMaker click on the **Tools** menu and select **Import Local Package**. Choose the `.yymps` file you downloaded, and import all assets.
 
-Alternatively you can install Cadence from the [Game Maker Marketplace]().
+Alternatively you can install Cadence from the [Game Maker Marketplace](https://marketplace.yoyogames.com/assets/10846/cadence).
 
 Absolutely no further configuration is required! Just start calling `run_in_frames`
 
