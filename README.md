@@ -1,7 +1,16 @@
-# gm-cadence
+# gm-cadence (Deprecated)
 ![banner graphic](banner.png)
 
 Cadence is a library for modern GameMaker projects for scheduling execution of code. It presents a simple API that lets you run any function with a given frame delay and repeat duration.
+
+## Deprecated
+As of GameMaker 2022.5, with the introduction of Time Sources, Cadence is no longer necessary. As such this library will no longer be updated or maintained.
+The latest commit to the code-base shows how to use built-in Time Sources to replicate Cadence's functionality by updating the `run_in_frames` function in `scr_cadence`.
+
+For more information on Time Sources see the following resources:
+
+* [Version 2022.5 announcement blog post](https://gamemaker.io/en/blog/release-2022-5)
+* [Time Sources documentation](https://manual.yoyogames.com/GameMaker_Language/GML_Reference/Time_Sources/Time_Sources.htm)
 
 #### Table of Contents
 * [Setup](#setup)
